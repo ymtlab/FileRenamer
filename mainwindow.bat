@@ -1,0 +1,1 @@
+D:\WinPython\python-3.6.5.amd64\Scripts\pyuic5.bat -o D:\Python\FileRenamer\minwindow.py D:\Python\FileRenamer\minwindow.ui
